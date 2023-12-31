@@ -7,7 +7,7 @@ concurrency:
 on:
   pull_request:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   semantic_pull_request:
