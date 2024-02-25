@@ -13,7 +13,7 @@
 [build_link]: https://github.com/jovazcode/flutter_evented_bloc/actions/workflows/main.yaml
 [pub_link]: https://pub.dev/packages/flutter_evented_bloc
 [build_badge]: https://github.com/jovazcode/flutter_evented_bloc/actions/workflows/main.yaml/badge.svg
-[coverage_badge]: https://github.com/jovazcode/flutter_evented_bloc/blob/main/coverage_badge.svg
+[coverage_badge]: https://github.com/jovazcode/flutter_evented_bloc/raw/main/coverage_badge.svg
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/flutter_evented_bloc.svg
