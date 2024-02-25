@@ -2,7 +2,7 @@ name: flutter_evented_bloc
 description: Flutter Widgets built to be used with the evented_bloc package
   (extension to the bloc state management library which adds support for
   outgoing events).
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/jovazcode/flutter_evented_bloc
 topics:
   [
