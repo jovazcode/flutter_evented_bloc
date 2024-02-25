@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jovazcode/flutter_flutter_evented_bloc/blob/main/screenshots/logo.png" height="300" alt="Flutter Evented Bloc">
+  <img src="https://github.com/jovazcode/flutter_evented_bloc/raw/main/screenshots/logo.png" height="300" alt="Flutter Evented Bloc">
 </p>
 
 # Flutter Evented Bloc
